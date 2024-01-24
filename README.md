@@ -1,6 +1,6 @@
 ### Hi! I'm Mattias Gaspar Maciel 👋
 
-- 🌱 Studing Front-End
+- 🌱 Studing FullStack
 
 <div align="center">
   <a href="https://github.com/MattiasGM">
