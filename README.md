@@ -11,7 +11,7 @@
 ### Onde me Encontrar:
   
 <div>  
-  <a href="https://www.linkedin.com/in/mattias-gaspar-775ba4231/" target="_blank" rel="nofollow"> - <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow"></a>
+  <a href="https://www.linkedin.com/in/mattias-gaspar-775ba4231/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow"></a>
 </div>
 <br>
 
