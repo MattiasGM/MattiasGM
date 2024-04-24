@@ -7,7 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattiasGM&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiasGM&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
 - Onde me Encontrar:
+  
 <div> 
   <a href="https://www.linkedin.com/in/mattias-gaspar-775ba4231/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow"></a> 
  
