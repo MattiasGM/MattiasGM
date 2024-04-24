@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-- Olá! Me chamo Mattias Gaspar e tenho 23 anos. Comecei a desenvolver com meus 18 anos, atualmente sou aluno da @cubosacademy e estou a procura de uma vaga de emprego como Desenvolvedor.
+- Me chamo Mattias Gaspar e tenho 23 anos. Comecei a desenvolver com meus 18 anos, atualmente sou aluno da @cubosacademy e estou a procura de uma vaga de emprego como Desenvolvedor.
 
 <div align="center">
   <a href="https://github.com/MattiasGM">
