@@ -11,7 +11,7 @@
 ### Onde me Encontrar:
   
 <div>  
-  <a href="https://www.linkedin.com/in/mattias-gaspar-maciel-775ba4231/?trk=opento_sprofile_topcard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/mattias-gaspar-maciel-775ba4231/?trk=opento_sprofile_topcard"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="nofollow"></a>
 </div>
 <br>
 
